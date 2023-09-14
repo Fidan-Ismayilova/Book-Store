@@ -5,4 +5,4 @@ Web page designed for a book store
 To have access on admin panel, go to **/admin/admin.html**. Username: *admin*, password: *admin*
 
 [Go to Website](https://fidan-ismayilova.github.io/Book-Store/) \
-[For admin panel](https://fidan-ismayilova.github.io/book-store/admin/login.html)
+[For admin panel](https://abuzar-cpu.github.io/book-store/admin/login.html)
